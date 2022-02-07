@@ -3,7 +3,7 @@ import OtherOne from "./OtherOne";
 
 const Nested = () => {
   return (<>
-    <p>You can nest components as you wish</p>
+    <p>You can nest components if you want.</p>
     <Deep />
     <OtherOne />
   </>);
